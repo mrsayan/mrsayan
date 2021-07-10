@@ -52,7 +52,7 @@
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-46365%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-46470%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -67,7 +67,7 @@ INI                      13 mins             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 09/07/2021
+ Last Updated on 10/07/2021
 <!--END_SECTION:waka-->
 
 </div>
