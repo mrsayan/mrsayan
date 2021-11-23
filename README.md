@@ -58,7 +58,7 @@
 
 ```text
 💬 Programming Languages: 
-C                        5 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
