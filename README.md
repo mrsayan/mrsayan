@@ -18,7 +18,7 @@
     <img alt="Page Views" title="GitHub views" src="https://page-views.herokuapp.com/"/></a>
 </p>
 
-[<img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=l3mssec08n60yltzew6r4f3b6&cover_image=true&theme=novatorem" alt="Listen to Me 🎧" width="350"/>](https://git.io/mrsayan)
+[<img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=aadw7nd63dzwt9luu7zqfdghp&cover_image=true&theme=novatorem" alt="Listen to Me 🎧" width="350"/>](https://git.io/mrsayan)
 
 </br>
 
