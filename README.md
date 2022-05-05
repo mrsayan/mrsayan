@@ -52,8 +52,6 @@
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-208%20hrs%202%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-68%20Thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
@@ -69,7 +67,7 @@ CSS                      11 mins             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 05/05/2022 18:29:54 UTC
+ Last Updated on 05/05/2022 20:26:25 UTC
 <!--END_SECTION:waka-->
 
 </div>
