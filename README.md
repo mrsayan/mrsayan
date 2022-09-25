@@ -60,12 +60,12 @@
 
 ```text
 💬 Programming Languages: 
-C++                      8 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 25/09/2022 18:34:22 UTC
+ Last Updated on 25/09/2022 20:29:43 UTC
 <!--END_SECTION:waka-->
 
 </div>
