@@ -60,13 +60,12 @@
 
 ```text
 💬 Programming Languages: 
-Other                    3 mins              ████████████████████████░   96.52% 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.48%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 02/12/2022 20:23:08 UTC
+ Last Updated on 02/12/2022 22:21:34 UTC
 <!--END_SECTION:waka-->
 
 </div>
