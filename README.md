@@ -52,7 +52,7 @@
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-306%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-306%20hrs%206%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-69%20Thousand%20lines%20of%20code-blue)
 
@@ -65,7 +65,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 16/02/2023 18:26:07 UTC
+ Last Updated on 16/02/2023 20:23:17 UTC
 <!--END_SECTION:waka-->
 
 </div>
