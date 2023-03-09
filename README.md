@@ -60,12 +60,11 @@
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 5 mins         ████████████████████████░   94.89 % 
-Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 09/03/2023 20:22:49 UTC
+ Last Updated on 09/03/2023 22:20:42 UTC
 <!--END_SECTION:waka-->
 
 </div>
