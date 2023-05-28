@@ -60,12 +60,11 @@
 
 ```text
 💬 Programming Languages: 
-Java                     1 hr 4 mins         ████████████████████████░   97.25 % 
-Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 28/05/2023 20:17:19 UTC
+ Last Updated on 28/05/2023 22:16:26 UTC
 <!--END_SECTION:waka-->
 
 </div>
