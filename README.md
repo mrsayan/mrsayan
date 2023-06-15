@@ -18,7 +18,7 @@
     <img alt="Page Views" title="GitHub views" src="https://page-views.herokuapp.com/"/></a>
 </p>
 
-[<img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=aadw7nd63dzwt9luu7zqfdghp&cover_image=true&theme=novatorem" alt="Listen to Me 🎧" width="350"/>](https://git.io/mrsayan)
+[<img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=31qvuduv77wna7y3ausv2iarwvcu&cover_image=true&theme=novatorem" alt="Listen to Me 🎧" width="350"/>](https://git.io/mrsayan)
 
 </br>
 
@@ -78,7 +78,7 @@ JSON                     44 mins             █░░░░░░░░░░�
 
 ---
 
-[![Sayan's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mrsayan&hide_title=true&theme=xcode)][github]
+[![Sayan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mrsayan&hide_title=true&theme=xcode)][github]
 
 <div align="center">
 
