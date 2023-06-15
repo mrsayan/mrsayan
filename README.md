@@ -52,23 +52,23 @@
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-340%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-352%20hrs%201%20min-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-139.4%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-139.5%20thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-JavaScript               6 hrs 31 mins       ████████████████░░░░░░░░░   63.63 % 
-Text                     55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
-EJS                      33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
-Other                    30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
-CSS                      27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
+JavaScript               13 hrs 43 mins      ████████████████░░░░░░░░░   65.79 % 
+Markdown                 1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
+Bash                     1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
+Text                     55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+JSON                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
 ```
 
 
- Last Updated on 15/06/2023 20:18:43 UTC
+ Last Updated on 15/06/2023 22:17:01 UTC
 <!--END_SECTION:waka-->
 
 </div>
