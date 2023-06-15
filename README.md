@@ -52,9 +52,9 @@
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-347%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-347%20hrs%2057%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-137.0%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-139.2%20thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -68,7 +68,7 @@ CSS                      27 mins             █░░░░░░░░░░�
 ```
 
 
- Last Updated on 15/06/2023 02:42:05 UTC
+ Last Updated on 15/06/2023 04:21:02 UTC
 <!--END_SECTION:waka-->
 
 </div>
