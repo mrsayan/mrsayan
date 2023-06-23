@@ -52,7 +52,7 @@
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-352%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-352%20hrs%2024%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-139.5%20thousand%20lines%20of%20code-blue)
 
@@ -68,7 +68,7 @@ Git Config               2 mins              █░░░░░░░░░░�
 ```
 
 
- Last Updated on 23/06/2023 18:24:24 UTC
+ Last Updated on 23/06/2023 20:21:18 UTC
 <!--END_SECTION:waka-->
 
 </div>
