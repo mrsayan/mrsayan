@@ -15,6 +15,7 @@
   <a href="https://github.com/mrsayan">
     <img alt="Github" title="Follow me on Github" src="https://img.shields.io/github/followers/mrsayan?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
   <a href="https://github.com/mrsayan/mrsayan">
+    <src="https://visitor-vault.onrender.com/views">
     <img alt="Page Views" title="GitHub views" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fvisitor-vault.onrender.com%2Fviews&query=totalViews&style=for-the-badge&logo=github&label=github&labelColor=640464&color=purple"/></a>
 </p>
 
