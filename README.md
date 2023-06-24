@@ -9,14 +9,13 @@
   <a href="https://www.youtube.com/channel/UCjgHE28enXgFKt5l7NnSAzw?sub_confirmation=1">
     <img alt=Youtube" title="Subscribe to my YouTube channel" src="https://img.shields.io/youtube/channel/subscribers/UCjgHE28enXgFKt5l7NnSAzw?color=%23E05D44&label=SUBSCRIBE&logo=youtube&style=for-the-badge&labelColor=CE4630"/></a> 
   <a href="https://www.instagr.am/hazra_sayan">
-    <img alt="Instagram" title="Follow me on Instagram" src="https://img.shields.io/static/v1?label=FOLLOW&message=903&logo=instagram&logoColor=white&labelColor=e1306c&color=d962b3&style=for-the-badge"/></a>
+    <img alt="Instagram" title="Follow me on Instagram" src="https://img.shields.io/static/v1?label=FOLLOW&message=1120&logo=instagram&logoColor=white&labelColor=e1306c&color=d962b3&style=for-the-badge"/></a>
       <a href="https://www.linkedin.com/in/mrsayan">
     <img alt="Linkedin" title="Connect me on Linkedin" src="https://img.shields.io/badge/CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
   <a href="https://github.com/mrsayan">
     <img alt="Github" title="Follow me on Github" src="https://img.shields.io/github/followers/mrsayan?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
   <a href="https://github.com/mrsayan/mrsayan">
-    <src="https://visitor-vault.onrender.com/views">
-    <img alt="Page Views" title="GitHub views" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fvisitor-vault.onrender.com%2Fviews&query=totalViews&style=for-the-badge&logo=github&label=github&labelColor=640464&color=purple"/></a>
+    <img alt="Page Views" title="GitHub views" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fvisitor-vault.onrender.com%2Fviews&query=totalViews&style=for-the-badge&logo=github&label=views&labelColor=640464&color=purple" src="https://visitor-vault.onrender.com/views"/></a>
 </p>
 
 [<img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=31qvuduv77wna7y3ausv2iarwvcu&cover_image=true&theme=novatorem" alt="Listen to Me 🎧" width="350"/>](https://git.io/mrsayan)
