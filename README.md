@@ -15,7 +15,7 @@
   <a href="https://github.com/mrsayan">
     <img alt="Github" title="Follow me on Github" src="https://img.shields.io/github/followers/mrsayan?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
   <a href="https://github.com/mrsayan/mrsayan">
-    <img alt="Page Views" title="GitHub views" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fvisitor-vault.onrender.com%2Fviews&query=totalViews&style=for-the-badge&logo=github&label=views&labelColor=640464&color=purple" src="https://visitor-vault.onrender.com/views"/></a>
+    <img alt="Page Views" title="GitHub views" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fvisitor-vault.onrender.com%2Fviews&query=totalViews&style=for-the-badge&logo=github&label=views&labelColor=640464&color=purple"/></a>
 </p>
 
 [<img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=31qvuduv77wna7y3ausv2iarwvcu&cover_image=true&theme=novatorem" alt="Listen to Me 🎧" width="350"/>](https://git.io/mrsayan)
