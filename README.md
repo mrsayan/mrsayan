@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://www.youtube.com/channel/UCjgHE28enXgFKt5l7NnSAzw?sub_confirmation=1">
     <img alt=Youtube" title="Subscribe to my YouTube channel" src="https://img.shields.io/youtube/channel/subscribers/UCjgHE28enXgFKt5l7NnSAzw?color=%23E05D44&label=SUBSCRIBE&logo=youtube&style=for-the-badge&labelColor=CE4630"/></a> 
-  <a href="https://www.instagr.am/hazra_sayan">
+  <a href="https://www.instagr.am/sayyan.ml">
     <img alt="Instagram" title="Follow me on Instagram" src="https://img.shields.io/static/v1?label=FOLLOW&message=1120&logo=instagram&logoColor=white&labelColor=e1306c&color=d962b3&style=for-the-badge"/></a>
       <a href="https://www.linkedin.com/in/mrsayan">
     <img alt="Linkedin" title="Connect me on Linkedin" src="https://img.shields.io/badge/CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
