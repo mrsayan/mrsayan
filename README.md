@@ -52,7 +52,7 @@
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-363%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-363%20hrs%202%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-140.5%20thousand%20lines%20of%20code-blue)
 
@@ -68,7 +68,7 @@ YAML                     36 mins             █░░░░░░░░░░�
 ```
 
 
- Last Updated on 01/07/2023 18:23:39 UTC
+ Last Updated on 01/07/2023 20:19:26 UTC
 <!--END_SECTION:waka-->
 
 </div>
