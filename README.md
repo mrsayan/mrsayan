@@ -52,7 +52,7 @@
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-429%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-429%20hrs%2014%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.0%20million%20lines%20of%20code-blue)
 
@@ -63,12 +63,12 @@
 JavaScript               2 hrs 5 mins        ███████░░░░░░░░░░░░░░░░░░   27.54 % 
 YAML                     1 hr 36 mins        █████░░░░░░░░░░░░░░░░░░░░   21.20 % 
 Markdown                 52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
-JSON                     50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
+JSON                     50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
 Java                     47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
 ```
 
 
- Last Updated on 17/08/2023 18:21:32 UTC
+ Last Updated on 17/08/2023 22:16:11 UTC
 <!--END_SECTION:waka-->
 
 </div>
