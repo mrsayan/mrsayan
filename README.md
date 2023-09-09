@@ -52,7 +52,7 @@
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-460%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-460%20hrs%2012%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.1%20million%20lines%20of%20code-blue)
 
@@ -68,7 +68,7 @@ Ezhil                    5 mins              █░░░░░░░░░░�
 ```
 
 
- Last Updated on 09/09/2023 14:14:21 UTC
+ Last Updated on 09/09/2023 16:20:23 UTC
 <!--END_SECTION:waka-->
 
 </div>
