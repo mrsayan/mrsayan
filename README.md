@@ -52,7 +52,7 @@
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-471%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-471%20hrs%2011%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.1%20million%20lines%20of%20code-blue)
 
@@ -68,7 +68,7 @@ JSON                     42 mins             ██░░░░░░░░░�
 ```
 
 
- Last Updated on 19/09/2023 18:23:23 UTC
+ Last Updated on 19/09/2023 20:19:04 UTC
 <!--END_SECTION:waka-->
 
 </div>
