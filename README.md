@@ -52,7 +52,7 @@
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-491%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-490%20hrs%2028%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.2%20million%20lines%20of%20code-blue)
 
@@ -64,7 +64,7 @@ Python                   0 secs              ███████████�
 ```
 
 
- Last Updated on 14/12/2023 18:24:03 UTC
+ Last Updated on 14/12/2023 20:20:21 UTC
 <!--END_SECTION:waka-->
 
 </div>
