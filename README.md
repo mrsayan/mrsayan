@@ -52,7 +52,7 @@
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-596%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-598%20hrs%207%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
 
@@ -60,13 +60,13 @@
 
 ```text
 💬 Programming Languages: 
-Text                     1 hr 22 mins        ██████████░░░░░░░░░░░░░░░   40.67 % 
-Other                    1 hr 15 mins        █████████░░░░░░░░░░░░░░░░   37.45 % 
-Python                   44 mins             █████░░░░░░░░░░░░░░░░░░░░   21.87 % 
+Other                    2 hrs 21 mins       █████████████░░░░░░░░░░░░   52.33 % 
+Text                     1 hr 41 mins        █████████░░░░░░░░░░░░░░░░   37.35 % 
+Python                   27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
 ```
 
 
- Last Updated on 29/01/2025 18:31:10 UTC
+ Last Updated on 29/01/2025 20:24:12 UTC
 <!--END_SECTION:waka-->
 
 </div>
