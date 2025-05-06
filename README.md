@@ -60,12 +60,11 @@
 
 ```text
 💬 Programming Languages: 
-Other                    1 hr 26 mins        ███████████████████████░░   91.32 % 
-CSV                      8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 06/05/2025 18:35:29 UTC
+ Last Updated on 06/05/2025 20:28:08 UTC
 <!--END_SECTION:waka-->
 
 </div>
