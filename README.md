@@ -52,8 +52,6 @@
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-623%20hrs%206%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
@@ -64,7 +62,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 30/07/2025 16:34:51 UTC
+ Last Updated on 30/07/2025 18:41:33 UTC
 <!--END_SECTION:waka-->
 
 </div>
