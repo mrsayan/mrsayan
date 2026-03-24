@@ -60,13 +60,11 @@
 
 ```text
 💬 Programming Languages: 
-JSON                     57 mins             █████████████░░░░░░░░░░░░   51.07 % 
-Python                   53 mins             ████████████░░░░░░░░░░░░░   47.95 % 
-HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+Python                   18 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 24/03/2026 19:15:33 UTC
+ Last Updated on 24/03/2026 20:51:51 UTC
 <!--END_SECTION:waka-->
 
 </div>
