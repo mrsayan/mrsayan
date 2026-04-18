@@ -60,15 +60,15 @@
 
 ```text
 💬 Programming Languages: 
-Python                   20 mins             ██████████░░░░░░░░░░░░░░░   39.58 % 
-Other                    17 mins             ████████░░░░░░░░░░░░░░░░░   33.56 % 
-Markdown                 8 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
-PowerShell               4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+Python                   20 mins             ██████████░░░░░░░░░░░░░░░   39.75 % 
+Other                    17 mins             ████████░░░░░░░░░░░░░░░░░   33.71 % 
+Markdown                 8 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
+PowerShell               4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 ```
 
 
- Last Updated on 18/04/2026 19:02:04 UTC
+ Last Updated on 18/04/2026 20:46:31 UTC
 <!--END_SECTION:waka-->
 
 </div>
