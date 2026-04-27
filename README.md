@@ -60,15 +60,15 @@
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 5 mins        █████████████████░░░░░░░░   69.67 % 
-PowerShell               40 mins             ██████░░░░░░░░░░░░░░░░░░░   22.46 % 
-Git Config               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
-Markdown                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
-Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+Python                   1 hr 39 mins        ████████████████████░░░░░   79.99 % 
+PowerShell               17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
+Git Config               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
+Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 ```
 
 
- Last Updated on 27/04/2026 19:43:35 UTC
+ Last Updated on 27/04/2026 21:10:51 UTC
 <!--END_SECTION:waka-->
 
 </div>
