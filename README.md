@@ -52,7 +52,7 @@
 <div align="center">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-649%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-649%20hrs%2050%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.27%20million%20lines%20of%20code-blue?style=flat)
 
@@ -60,15 +60,15 @@
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 39 mins        ████████████████████░░░░░   79.99 % 
-PowerShell               17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
-Git Config               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
-Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Python                   1 hr 5 mins         █████████████████████░░░░   85.77 % 
+Text                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
+SQL                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+Git Config               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
+PowerShell               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
 ```
 
 
- Last Updated on 28/04/2026 19:50:58 UTC
+ Last Updated on 28/04/2026 21:13:25 UTC
 <!--END_SECTION:waka-->
 
 </div>
