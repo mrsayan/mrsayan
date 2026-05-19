@@ -60,14 +60,14 @@
 
 ```text
 💬 Programming Languages: 
-Python                   45 mins             ████████████████████░░░░░   78.87 % 
-SQL                      12 mins             █████░░░░░░░░░░░░░░░░░░░░   21.07 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Python                   45 mins             ████████████████████░░░░░   78.26 % 
+SQL                      12 mins             █████░░░░░░░░░░░░░░░░░░░░   21.13 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 ```
 
 
- Last Updated on 19/05/2026 20:00:03 UTC
+ Last Updated on 19/05/2026 21:41:14 UTC
 <!--END_SECTION:waka-->
 
 </div>
